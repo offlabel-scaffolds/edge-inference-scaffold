@@ -40,7 +40,7 @@ npm run build
 - TypeScript
 - WebAssembly
 
-## ️ Architecture
+## Architecture
 
 ```
 edge-inference-scaffold/
