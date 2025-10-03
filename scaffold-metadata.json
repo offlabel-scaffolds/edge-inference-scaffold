@@ -1,0 +1,33 @@
+{
+  "name": "edge-inference-scaffold",
+  "description": "Local model inference with quantization, optimization, and cloud fallback",
+  "tech": [
+    "ONNX",
+    "TensorFlow Lite",
+    "TypeScript",
+    "WebAssembly"
+  ],
+  "categories": [
+    "ai-ml",
+    "mobile"
+  ],
+  "usecases": [
+    "ai-ml"
+  ],
+  "maturity": "beta",
+  "complexity": "advanced",
+  "features": [
+    "edge-inference",
+    "quantization",
+    "offline-support",
+    "fallback",
+    "unit-tests"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "local-processing",
+    "data-privacy"
+  ],
+  "lastUpdated": "2025-01-03"
+}
